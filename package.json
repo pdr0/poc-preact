@@ -1,0 +1,25 @@
+{
+  "name": "poc-preact",
+  "version": "1.0.0",
+  "description": "preact poc with test",
+  "main": "index.js",
+  "author": "pedro selas",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@babel/core": "^7.6.4",
+    "babel-jest": "^24.9.0",
+    "babel-preset-preact": "^2.0.0",
+    "enzyme-to-json": "^3.4.2",
+    "preact": "^10.0.0",
+    "sinon": "^7.5.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.6.3",
+    "chai": "^4.2.0",
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-preact-pure": "^2.1.0",
+    "jest": "^24.9.0",
+    "jest-preact-preset": "^1.0.0"
+  }
+}
